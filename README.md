@@ -18,10 +18,10 @@
 ---
 
 ### :man_technologist: About me:
--I am Junior Web-developer
--Yandex.Practicum student
--I am inspired by writing code
--I like to study new technologies
+- I am Junior Web-developer
+- Yandex.Practicum student
+- I am inspired by writing code
+- I like to study new technologies
 
 ---
 
