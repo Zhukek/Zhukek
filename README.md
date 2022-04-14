@@ -14,11 +14,16 @@
 <div id="about" align="center">
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="600"/>
 </div>
+
+---
+
 ### :man_technologist: About me:
 -I am Junior Web-developer
 -Yandex.Practicum student
 -I am inspired by writing code
 -I like to study new technologies
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
