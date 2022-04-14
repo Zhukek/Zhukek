@@ -12,7 +12,7 @@
   </h1>
 </div>
 <div id="about" align="center">
-  <img src="https://c.tenor.com/0ghUrN_7LjgAAAAj/laptop-computer-objects.gif" width="600"/>
+  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" width="600"/>
 </div>
 
 
